@@ -1,0 +1,8 @@
+{
+    "name": "com.example.simplepackage",
+    "version": "0.0.1",
+    "displayName": "Simple Example Package",
+    "description": "This is a simple example package for Unity.",
+    "unity": "2020.3",
+    "dependencies": {}
+}
